@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['iata25_0',['iata25',['../class_c_s_library_1_1_barcode_1_1_structures_1_1_symbology_parms.html#a84e07f56fbe5a2c2149ac5759b48f2e4',1,'CSLibrary::Barcode::Structures::SymbologyParms']]],
+  ['idlength_1',['idLength',['../class_c_s_library_1_1_structures_1_1_radio_information.html#a626c12d920d4ae6e637cdbec25cbda1a',1,'CSLibrary::Structures::RadioInformation']]],
+  ['illuminatcycle_2',['illuminatCycle',['../class_c_s_library_1_1_barcode_1_1_structures_1_1_image_acquisition_parms.html#ad1dbd90d966c434ca80683eb7055a80f',1,'CSLibrary::Barcode::Structures::ImageAcquisitionParms']]],
+  ['illumledcolor_3',['illumLedColor',['../class_c_s_library_1_1_barcode_1_1_structures_1_1_decoder_parms.html#a425a07e0ddd4910370feb9f882e7884d',1,'CSLibrary::Barcode::Structures::DecoderParms']]],
+  ['imageformat_4',['imageFormat',['../class_c_s_library_1_1_barcode_1_1_structures_1_1_image_message.html#a1edc11986db75e6ae6b5a92524c69482',1,'CSLibrary::Barcode::Structures::ImageMessage']]],
+  ['imagertype_5',['imagerType',['../class_c_s_library_1_1_barcode_1_1_structures_1_1_imager_capabilities_parms.html#a787e78d4812808d900203e2c771492fa',1,'CSLibrary::Barcode::Structures::ImagerCapabilitiesParms']]],
+  ['imgacqu_6',['imgAcqu',['../class_c_s_library_1_1_barcode_1_1_structures_1_1_all_config_parms.html#a744b38721b4e4c56cdf702f1800eb34c',1,'CSLibrary::Barcode::Structures::AllConfigParms']]],
+  ['imgsize_7',['imgSize',['../class_c_s_library_1_1_barcode_1_1_structures_1_1_image_message.html#a974ffe6a6b51228f10097e4a338536c7',1,'CSLibrary::Barcode::Structures::ImageMessage']]],
+  ['imgtrans_8',['imgTrans',['../class_c_s_library_1_1_barcode_1_1_structures_1_1_all_config_parms.html#aa3a00bae4b69f3b696970fd67737640f',1,'CSLibrary::Barcode::Structures::AllConfigParms']]],
+  ['index_9',['index',['../class_c_s_library_1_1_structures_1_1_tag_callback_info.html#a00e934bd28cd5be581dd1b82a203717e',1,'CSLibrary::Structures::TagCallbackInfo']]],
+  ['info_10',['info',['../class_c_s_library_1_1_events_1_1_on_async_callback_event_args.html#abe4271ad0952940231f4e0e6b77c32d7',1,'CSLibrary::Events::OnAsyncCallbackEventArgs']]],
+  ['int2of5_11',['int2of5',['../class_c_s_library_1_1_barcode_1_1_structures_1_1_symbology_parms.html#a7cd62e2bddb051693e4d55f23005367b',1,'CSLibrary::Barcode::Structures::SymbologyParms']]],
+  ['inv_5falgo_12',['inv_algo',['../class_c_s_library_1_1_structures_1_1_antenna_port_status.html#af1382cca8fe51d1649f4d309a3b4dfe6',1,'CSLibrary::Structures::AntennaPortStatus']]],
+  ['invertdigitaloutput_13',['InvertDigitalOutput',['../class_c_s_library_1_1_structures_1_1_g2_config_parms.html#a1b6eabd8ffb2e2b65fc027cb0af86130',1,'CSLibrary::Structures::G2ConfigParms']]],
+  ['inx_14',['InX',['../class_c_s_library_1_1_r_t_l_s_1_1_transport_1_1_detailed_port_settings.html#a13ff3a7059238c290e1cad506c3ffd91',1,'CSLibrary::RTLS::Transport::DetailedPortSettings']]],
+  ['ipaddress_15',['IPAddress',['../class_c_s_library_1_1_net_1_1_device_infomation.html#a1ba68e5b2a3301e3109f4a6b9046878e',1,'CSLibrary::Net::DeviceInfomation']]],
+  ['isbt_16',['isbt',['../class_c_s_library_1_1_barcode_1_1_structures_1_1_symbology_parms.html#a34751cd8aee41f980a1dc8b827acae67',1,'CSLibrary::Barcode::Structures::SymbologyParms']]],
+  ['isconnected_17',['IsConnected',['../struct_c_s_library_1_1_structures_1_1_d_e_v_i_c_e___s_t_a_t_u_s.html#a7b025a065ac6fc038c0791e139a9da50',1,'CSLibrary::Structures::DEVICE_STATUS']]],
+  ['iscrcfilter_18',['IsCRCFilter',['../struct_c_s_library_1_1_structures_1_1_d_e_v_i_c_e___s_t_a_t_u_s.html#a39e7ae2a9685c44901b204f714123548',1,'CSLibrary::Structures::DEVICE_STATUS']]],
+  ['iserrorreset_19',['IsErrorReset',['../struct_c_s_library_1_1_structures_1_1_d_e_v_i_c_e___s_t_a_t_u_s.html#ae2a6634912330fb3357ab2c9a0292ffc',1,'CSLibrary::Structures::DEVICE_STATUS']]],
+  ['iskeepalive_20',['IsKeepAlive',['../struct_c_s_library_1_1_structures_1_1_d_e_v_i_c_e___s_t_a_t_u_s.html#afc93205e70d1a711b293a816eed263c0',1,'CSLibrary::Structures::DEVICE_STATUS']]],
+  ['ispoweron_21',['IsPowerOn',['../struct_c_s_library_1_1_structures_1_1_d_e_v_i_c_e___s_t_a_t_u_s.html#a7278d68e939a317c8be47f5937ec1ca6',1,'CSLibrary::Structures::DEVICE_STATUS']]],
+  ['istruncate_22',['isTruncate',['../struct_c_s_library_1_1_structures_1_1_i_n_v_e_n_t_o_r_y___p_k_t.html#a898b72323f4fabd6e7f59f3f1d39af21',1,'CSLibrary::Structures::INVENTORY_PKT']]]
+];
